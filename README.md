@@ -12,11 +12,13 @@ A simple, no-backend expense tracker. Log daily spending, categorize it, and see
 
 ## Usage
 
-Just open [index.html](index.html) in a browser. No install or build step needed.
+You can open [index.html](index.html) directly in a browser, or serve the folder locally for a more reliable preview.
 
 ```
-open index.html
+python3 -m http.server 8080
 ```
+
+Then open http://localhost:8080 in your browser.
 
 ## Tech
 
