@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
+
+# Logs
+*.log
+
+# Optional local data
+*.local
